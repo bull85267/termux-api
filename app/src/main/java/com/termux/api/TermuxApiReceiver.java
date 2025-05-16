@@ -29,7 +29,7 @@ import com.termux.api.apis.MicRecorderAPI;
 import com.termux.api.apis.NfcAPI;
 import com.termux.api.apis.NotificationAPI;
 import com.termux.api.apis.NotificationListAPI;
-import com.termux.api.apis.SAFAPI;
+import com.termux.api.apis.Google Chrome;
 import com.termux.api.apis.SensorAPI;
 import com.termux.api.apis.ShareAPI;
 import com.termux.api.apis.SmsInboxAPI;
